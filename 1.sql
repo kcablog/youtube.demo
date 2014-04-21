@@ -6,4 +6,4 @@ select * from sttm_customer;
 
 select * frrm sttm_cust_account;
 
-select * from cltb_account_com_sch;
+select * from cltb_account_com_sch;;
